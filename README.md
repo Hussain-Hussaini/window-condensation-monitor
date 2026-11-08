@@ -2,6 +2,9 @@
 
 An Arduino Uno device that measures room-air temperature, glass-surface temperature and humidity, calculates the dew point, and warns when a window is about to fog. I built it, calibrated its sensors, and tested its predictions against real condensation in five ice-water trials.
 
+**Short Demo of Condensation Monitor:**
+https://youtu.be/W517I8oxXYs
+
 **Short version of what I found:** the alert logic matches the dew-point formula exactly, and heavy fog formed within 0.7 °C of the predicted dew point in four of five trials. First haze appeared earlier than predicted, by 1.1 to 4.4 °C, and I could not explain why. The 3 °C early-warning margin only gave advance notice in 2 of 5 trials.
 
 ![Results of five ice-water trials](images/fig_results.png)
