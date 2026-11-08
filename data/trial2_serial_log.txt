@@ -1,0 +1,324 @@
+raw, dewPoint: 7.10, Margin: 9.90, Status: SAFE
+ass= 17.00, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.00, Probe Air = 16.44, dewPoint: 7.10, Margin: 9.90, Status: SAFE
+ass= 17.00, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.00, Probe Air = 16.44, dewPoint: 7.10, Margin: 9.90, Status: SAFE
+raw Glass= 17.06, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.06, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.91, Status: SAFE
+REDRAW
+raw Glass= 17.00, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.85, Status: SAFE
+REDRAW
+raw Glass= 17.00, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.85, Status: SAFE
+REDRAW
+raw Glass= 17.06, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.06, Probe Air = 16.44, dewPoint: 7.10, Margin: 9.97, Status: SAFE
+REDRAW
+raw Glass= 17.06, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.06, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.91, Status: SAFE
+REDRAW
+raw Glass= 17.06, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.06, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.91, Status: SAFE
+REDRAW
+raw Glass= 17.00, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.85, Status: SAFE
+REDRAW
+raw Glass= 17.00, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.85, Status: SAFE
+REDRAW
+raw Glass= 17.00, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.85, Status: SAFE
+REDRAW
+raw Glass= 17.06, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.06, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.91, Status: SAFE
+REDRAW
+raw Glass= 17.06, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.06, Probe Air = 16.44, dewPoint: 7.10, Margin: 9.97, Status: SAFE
+REDRAW
+raw Glass= 17.12, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.12, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.97, Status: SAFE
+REDRAW
+raw Glass= 17.12, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.12, Probe Air = 16.50, dewPoint: 7.15, Margin: 9.97, Status: SAFE
+REDRAW
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+REDRAW
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+REDRAW
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+REDRAW
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+REDRAW
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+REDRAW
+raw Glass= 17.25, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.25, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.10, Status: SAFE
+REDRAW
+raw Glass= 17.25, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.25, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.10, Status: SAFE
+REDRAW
+raw Glass= 17.25, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.25, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.10, Status: SAFE
+REDRAW
+Page: 1
+raw Glass= 17.25, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.25, Probe Air = 16.44, dewPoint: 7.10, Margin: 10.15, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.19, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.44, dewPoint: 7.10, Margin: 10.09, Status: SAFE
+raw Glass= 17.19, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.44, dewPoint: 7.10, Margin: 10.09, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.25, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.25, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.10, Status: SAFE
+Page: 2
+Page: 0
+REDRAW
+Page: 1
+raw Glass= 17.19, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.44, dewPoint: 7.10, Margin: 10.09, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.19, raw Air= 16.44, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.44, dewPoint: 7.10, Margin: 10.09, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.19, raw Air= 16.50, Humidity: 54.0, Probe Glass = 17.19, Probe Air = 16.50, dewPoint: 7.15, Margin: 10.03, Status: SAFE
+raw Glass= 17.12, raw Air= 16.44, Humidity: 55.0, Probe Glass = 17.12, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.76, Status: SAFE
+raw Glass= 17.12, raw Air= 16.44, Humidity: 55.0, Probe Glass = 17.12, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.76, Status: SAFE
+raw Glass= 17.12, raw Air= 16.44, Humidity: 55.0, Probe Glass = 17.12, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.76, Status: SAFE
+raw Glass= 17.12, raw Air= 16.50, Humidity: 55.0, Probe Glass = 17.12, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.70, Status: SAFE
+raw Glass= 17.12, raw Air= 16.50, Humidity: 55.0, Probe Glass = 17.12, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.70, Status: SAFE
+raw Glass= 17.06, raw Air= 16.44, Humidity: 55.0, Probe Glass = 17.06, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.70, Status: SAFE
+raw Glass= 17.06, raw Air= 16.44, Humidity: 55.0, Probe Glass = 17.06, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.70, Status: SAFE
+raw Glass= 17.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 17.06, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.64, Status: SAFE
+raw Glass= 17.06, raw Air= 16.44, Humidity: 55.0, Probe Glass = 17.06, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.70, Status: SAFE
+raw Glass= 17.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.58, Status: SAFE
+raw Glass= 17.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.58, Status: SAFE
+raw Glass= 17.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 17.00, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.58, Status: SAFE
+raw Glass= 16.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 16.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.52, Status: SAFE
+raw Glass= 16.87, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.87, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.51, Status: SAFE
+raw Glass= 16.87, raw Air= 16.50, Humidity: 55.0, Probe Glass = 16.87, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.45, Status: SAFE
+raw Glass= 16.81, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.81, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.45, Status: SAFE
+raw Glass= 16.75, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.75, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.39, Status: SAFE
+raw Glass= 16.75, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.75, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.39, Status: SAFE
+raw Glass= 16.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 16.69, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.27, Status: SAFE
+raw Glass= 16.62, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.62, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.26, Status: SAFE
+raw Glass= 16.56, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.56, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.20, Status: SAFE
+raw Glass= 16.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 16.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 9.14, Status: SAFE
+raw Glass= 16.50, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.50, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.14, Status: SAFE
+raw Glass= 16.37, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.37, Probe Air = 16.44, dewPoint: 7.36, Margin: 9.01, Status: SAFE
+raw Glass= 16.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 16.31, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.89, Status: SAFE
+raw Glass= 16.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 16.25, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.83, Status: SAFE
+raw Glass= 16.19, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.19, Probe Air = 16.44, dewPoint: 7.36, Margin: 8.82, Status: SAFE
+raw Glass= 16.12, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.12, Probe Air = 16.44, dewPoint: 7.36, Margin: 8.76, Status: SAFE
+raw Glass= 16.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 16.06, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.64, Status: SAFE
+raw Glass= 16.00, raw Air= 16.44, Humidity: 55.0, Probe Glass = 16.00, Probe Air = 16.44, dewPoint: 7.36, Margin: 8.64, Status: SAFE
+raw Glass= 15.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.52, Status: SAFE
+raw Glass= 15.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.39, Status: SAFE
+raw Glass= 15.81, raw Air= 16.44, Humidity: 55.0, Probe Glass = 15.81, Probe Air = 16.44, dewPoint: 7.36, Margin: 8.45, Status: SAFE
+raw Glass= 15.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.75, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.33, Status: SAFE
+raw Glass= 15.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.69, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.27, Status: SAFE
+raw Glass= 15.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.63, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.20, Status: SAFE
+raw Glass= 15.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.08, Status: SAFE
+raw Glass= 15.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 8.02, Status: SAFE
+raw Glass= 15.31, raw Air= 16.44, Humidity: 55.0, Probe Glass = 15.31, Probe Air = 16.44, dewPoint: 7.36, Margin: 7.95, Status: SAFE
+raw Glass= 15.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.25, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.83, Status: SAFE
+raw Glass= 15.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.19, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.77, Status: SAFE
+raw Glass= 15.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 15.06, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.64, Status: SAFE
+raw Glass= 14.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.52, Status: SAFE
+raw Glass= 14.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.39, Status: SAFE
+raw Glass= 14.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.75, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.33, Status: SAFE
+raw Glass= 14.63, raw Air= 16.44, Humidity: 55.0, Probe Glass = 14.63, Probe Air = 16.44, dewPoint: 7.36, Margin: 7.26, Status: SAFE
+raw Glass= 14.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.14, Status: SAFE
+raw Glass= 14.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 7.02, Status: SAFE
+raw Glass= 14.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.31, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.89, Status: SAFE
+raw Glass= 14.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.25, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.83, Status: SAFE
+raw Glass= 14.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.13, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.70, Status: SAFE
+raw Glass= 14.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.00, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.58, Status: SAFE
+raw Glass= 14.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 14.00, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.58, Status: SAFE
+raw Glass= 13.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.52, Status: SAFE
+raw Glass= 13.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.45, Status: SAFE
+raw Glass= 13.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.75, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.33, Status: SAFE
+raw Glass= 13.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.63, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.20, Status: SAFE
+raw Glass= 13.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.14, Status: SAFE
+raw Glass= 13.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.08, Status: SAFE
+raw Glass= 13.44, raw Air= 16.44, Humidity: 55.0, Probe Glass = 13.44, Probe Air = 16.44, dewPoint: 7.36, Margin: 6.07, Status: SAFE
+raw Glass= 13.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.31, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.89, Status: SAFE
+raw Glass= 13.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.25, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.83, Status: SAFE
+raw Glass= 13.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.25, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.83, Status: SAFE
+raw Glass= 13.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.63, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.20, Status: SAFE
+raw Glass= 13.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.45, Status: SAFE
+raw Glass= 13.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.45, Status: SAFE
+raw Glass= 13.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.75, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.33, Status: SAFE
+raw Glass= 13.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.63, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.20, Status: SAFE
+raw Glass= 13.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 6.08, Status: SAFE
+raw Glass= 13.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.31, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.89, Status: SAFE
+raw Glass= 13.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.19, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.77, Status: SAFE
+raw Glass= 13.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 13.06, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.64, Status: SAFE
+raw Glass= 12.94, raw Air= 16.44, Humidity: 55.0, Probe Glass = 12.94, Probe Air = 16.44, dewPoint: 7.36, Margin: 5.57, Status: SAFE
+raw Glass= 12.81, raw Air= 16.44, Humidity: 55.0, Probe Glass = 12.81, Probe Air = 16.44, dewPoint: 7.36, Margin: 5.45, Status: SAFE
+raw Glass= 12.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 12.69, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.27, Status: SAFE
+raw Glass= 12.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 12.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 5.08, Status: SAFE
+raw Glass= 12.38, raw Air= 16.44, Humidity: 55.0, Probe Glass = 12.38, Probe Air = 16.44, dewPoint: 7.36, Margin: 5.01, Status: SAFE
+raw Glass= 12.25, raw Air= 16.44, Humidity: 55.0, Probe Glass = 12.25, Probe Air = 16.44, dewPoint: 7.36, Margin: 4.89, Status: SAFE
+raw Glass= 12.06, raw Air= 16.44, Humidity: 55.0, Probe Glass = 12.06, Probe Air = 16.44, dewPoint: 7.36, Margin: 4.70, Status: SAFE
+raw Glass= 11.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 4.45, Status: SAFE
+raw Glass= 11.81, raw Air= 16.44, Humidity: 55.0, Probe Glass = 11.81, Probe Air = 16.44, dewPoint: 7.36, Margin: 4.45, Status: SAFE
+raw Glass= 11.63, raw Air= 16.44, Humidity: 55.0, Probe Glass = 11.63, Probe Air = 16.44, dewPoint: 7.36, Margin: 4.26, Status: SAFE
+raw Glass= 11.56, raw Air= 16.44, Humidity: 55.0, Probe Glass = 11.56, Probe Air = 16.44, dewPoint: 7.36, Margin: 4.20, Status: SAFE
+raw Glass= 11.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.38, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.95, Status: SAFE
+raw Glass= 11.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.25, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.83, Status: SAFE
+raw Glass= 11.19, raw Air= 16.44, Humidity: 55.0, Probe Glass = 11.19, Probe Air = 16.44, dewPoint: 7.36, Margin: 3.82, Status: SAFE
+raw Glass= 11.06, raw Air= 16.44, Humidity: 55.0, Probe Glass = 11.06, Probe Air = 16.44, dewPoint: 7.36, Margin: 3.70, Status: SAFE
+raw Glass= 11.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.06, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.64, Status: SAFE
+raw Glass= 11.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.19, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.77, Status: SAFE
+raw Glass= 11.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.19, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.77, Status: SAFE
+raw Glass= 11.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.19, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.77, Status: SAFE
+raw Glass= 11.13, raw Air= 16.44, Humidity: 55.0, Probe Glass = 11.13, Probe Air = 16.44, dewPoint: 7.36, Margin: 3.76, Status: SAFE
+raw Glass= 11.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.13, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.70, Status: SAFE
+raw Glass= 11.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.06, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.64, Status: SAFE
+raw Glass= 11.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 11.00, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.58, Status: SAFE
+raw Glass= 11.00, raw Air= 16.44, Humidity: 55.0, Probe Glass = 11.00, Probe Air = 16.44, dewPoint: 7.36, Margin: 3.64, Status: SAFE
+raw Glass= 10.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 10.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.52, Status: SAFE
+raw Glass= 10.94, raw Air= 16.44, Humidity: 55.0, Probe Glass = 10.94, Probe Air = 16.44, dewPoint: 7.36, Margin: 3.57, Status: SAFE
+raw Glass= 10.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 10.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.52, Status: SAFE
+raw Glass= 10.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 10.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.39, Status: SAFE
+raw Glass= 10.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 10.75, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.33, Status: SAFE
+raw Glass= 10.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 10.69, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.27, Status: SAFE
+raw Glass= 10.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 10.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 3.14, Status: SAFE
+raw Glass= 10.50, raw Air= 16.44, Humidity: 55.0, Probe Glass = 10.50, Probe Air = 16.44, dewPoint: 7.36, Margin: 3.14, Status: SAFE
+raw Glass= 10.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 10.38, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.95, Status: WARNING
+raw Glass= 10.31, raw Air= 16.44, Humidity: 55.0, Probe Glass = 10.31, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.95, Status: WARNING
+raw Glass= 10.19, raw Air= 16.44, Humidity: 55.0, Probe Glass = 10.19, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.82, Status: WARNING
+raw Glass= 10.13, raw Air= 16.44, Humidity: 55.0, Probe Glass = 10.13, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.76, Status: WARNING
+raw Glass= 10.00, raw Air= 16.44, Humidity: 55.0, Probe Glass = 10.00, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.64, Status: WARNING
+raw Glass= 9.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.52, Status: WARNING
+raw Glass= 9.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.52, Status: WARNING
+raw Glass= 9.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.45, Status: WARNING
+raw Glass= 9.88, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.88, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.51, Status: WARNING
+raw Glass= 9.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.39, Status: WARNING
+raw Glass= 9.81, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.81, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.45, Status: WARNING
+raw Glass= 9.88, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.88, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.51, Status: WARNING
+raw Glass= 9.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.45, Status: WARNING
+raw Glass= 9.88, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.88, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.51, Status: WARNING
+raw Glass= 9.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.45, Status: WARNING
+raw Glass= 9.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.45, Status: WARNING
+raw Glass= 9.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.39, Status: WARNING
+raw Glass= 9.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.39, Status: WARNING
+raw Glass= 9.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.39, Status: WARNING
+raw Glass= 9.75, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.75, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.39, Status: WARNING
+raw Glass= 9.69, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.69, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.32, Status: WARNING
+raw Glass= 9.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.63, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.20, Status: WARNING
+raw Glass= 9.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.14, Status: WARNING
+raw Glass= 9.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.14, Status: WARNING
+raw Glass= 9.56, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.56, Probe Air = 16.44, dewPoint: 7.36, Margin: 2.20, Status: WARNING
+raw Glass= 9.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.08, Status: WARNING
+raw Glass= 9.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 2.02, Status: WARNING
+raw Glass= 9.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.38, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.95, Status: WARNING
+raw Glass= 9.31, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.31, Probe Air = 16.44, dewPoint: 7.36, Margin: 1.95, Status: WARNING
+raw Glass= 9.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.25, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.83, Status: WARNING
+raw Glass= 9.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 9.19, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.77, Status: WARNING
+raw Glass= 9.06, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.06, Probe Air = 16.44, dewPoint: 7.36, Margin: 1.70, Status: WARNING
+raw Glass= 9.00, raw Air= 16.44, Humidity: 55.0, Probe Glass = 9.00, Probe Air = 16.44, dewPoint: 7.36, Margin: 1.64, Status: WARNING
+raw Glass= 8.94, raw Air= 16.44, Humidity: 55.0, Probe Glass = 8.94, Probe Air = 16.44, dewPoint: 7.36, Margin: 1.57, Status: WARNING
+raw Glass= 8.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.52, Status: WARNING
+raw Glass= 8.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.88, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.45, Status: WARNING
+raw Glass= 8.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.39, Status: WARNING
+raw Glass= 8.75, raw Air= 16.44, Humidity: 55.0, Probe Glass = 8.75, Probe Air = 16.44, dewPoint: 7.36, Margin: 1.39, Status: WARNING
+raw Glass= 8.63, raw Air= 16.44, Humidity: 55.0, Probe Glass = 8.63, Probe Air = 16.44, dewPoint: 7.36, Margin: 1.26, Status: WARNING
+raw Glass= 8.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.63, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.20, Status: WARNING
+raw Glass= 8.63, raw Air= 16.44, Humidity: 55.0, Probe Glass = 8.63, Probe Air = 16.44, dewPoint: 7.36, Margin: 1.26, Status: WARNING
+raw Glass= 8.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.14, Status: WARNING
+raw Glass= 8.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.14, Status: WARNING
+raw Glass= 8.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.08, Status: WARNING
+raw Glass= 8.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.02, Status: WARNING
+raw Glass= 8.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.02, Status: WARNING
+raw Glass= 8.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.38, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.95, Status: WARNING
+raw Glass= 8.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.02, Status: WARNING
+raw Glass= 8.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.38, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.95, Status: WARNING
+raw Glass= 8.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.31, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.89, Status: WARNING
+raw Glass= 8.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.31, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.89, Status: WARNING
+raw Glass= 8.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.02, Status: WARNING
+raw Glass= 8.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.08, Status: WARNING
+raw Glass= 8.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 1.02, Status: WARNING
+raw Glass= 8.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.38, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.95, Status: WARNING
+raw Glass= 8.31, raw Air= 16.44, Humidity: 55.0, Probe Glass = 8.31, Probe Air = 16.44, dewPoint: 7.36, Margin: 0.95, Status: WARNING
+raw Glass= 8.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.19, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.77, Status: WARNING
+raw Glass= 8.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.13, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.70, Status: WARNING
+raw Glass= 8.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 8.06, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.64, Status: WARNING
+raw Glass= 7.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.94, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.52, Status: WARNING
+raw Glass= 7.88, raw Air= 16.44, Humidity: 55.0, Probe Glass = 7.88, Probe Air = 16.44, dewPoint: 7.36, Margin: 0.51, Status: WARNING
+raw Glass= 7.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.81, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.39, Status: WARNING
+raw Glass= 7.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.75, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.33, Status: WARNING
+raw Glass= 7.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.69, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.27, Status: WARNING
+raw Glass= 7.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.69, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.27, Status: WARNING
+raw Glass= 7.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.63, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.20, Status: WARNING
+raw Glass= 7.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.56, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.14, Status: WARNING
+raw Glass= 7.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.50, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.08, Status: WARNING
+raw Glass= 7.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.44, Probe Air = 16.50, dewPoint: 7.42, Margin: 0.02, Status: WARNING
+raw Glass= 7.38, raw Air= 16.44, Humidity: 55.0, Probe Glass = 7.38, Probe Air = 16.44, dewPoint: 7.36, Margin: 0.01, Status: WARNING
+raw Glass= 7.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.38, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.05, Status: CONDENSING
+raw Glass= 7.25, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.25, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.17, Status: CONDENSING
+raw Glass= 7.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.23, Status: CONDENSING
+raw Glass= 7.06, raw Air= 16.44, Humidity: 55.0, Probe Glass = 7.06, Probe Air = 16.44, dewPoint: 7.36, Margin: -0.30, Status: CONDENSING
+raw Glass= 7.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 7.00, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.42, Status: CONDENSING
+raw Glass= 6.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.94, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.48, Status: CONDENSING
+raw Glass= 6.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.88, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.55, Status: CONDENSING
+raw Glass= 6.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.75, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.67, Status: CONDENSING
+raw Glass= 6.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.75, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.67, Status: CONDENSING
+raw Glass= 6.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.69, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.73, Status: CONDENSING
+raw Glass= 6.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.63, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.80, Status: CONDENSING
+raw Glass= 6.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.56, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.86, Status: CONDENSING
+raw Glass= 6.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.50, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.92, Status: CONDENSING
+raw Glass= 6.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.50, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.92, Status: CONDENSING
+raw Glass= 6.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.50, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.92, Status: CONDENSING
+raw Glass= 6.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.56, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.86, Status: CONDENSING
+raw Glass= 6.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.56, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.86, Status: CONDENSING
+raw Glass= 6.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.56, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.86, Status: CONDENSING
+raw Glass= 6.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.69, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.73, Status: CONDENSING
+raw Glass= 6.69, raw Air= 16.50, Humidity: 56.0, Probe Glass = 6.69, Probe Air = 16.50, dewPoint: 7.69, Margin: -1.00, Status: CONDENSING
+raw Glass= 6.75, raw Air= 16.50, Humidity: 56.0, Probe Glass = 6.75, Probe Air = 16.50, dewPoint: 7.69, Margin: -0.94, Status: CONDENSING
+raw Glass= 6.75, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.75, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.67, Status: CONDENSING
+raw Glass= 6.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.69, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.73, Status: CONDENSING
+raw Glass= 6.63, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.63, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.80, Status: CONDENSING
+raw Glass= 6.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.56, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.86, Status: CONDENSING
+raw Glass= 6.50, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.50, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.92, Status: CONDENSING
+raw Glass= 6.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.44, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.98, Status: CONDENSING
+raw Glass= 6.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.38, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.05, Status: CONDENSING
+raw Glass= 6.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.31, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.11, Status: CONDENSING
+raw Glass= 6.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.31, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.11, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.06, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.36, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.06, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.36, Status: CONDENSING
+raw Glass= 6.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.00, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.42, Status: CONDENSING
+raw Glass= 6.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.00, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.42, Status: CONDENSING
+raw Glass= 6.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.00, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.42, Status: CONDENSING
+raw Glass= 5.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.94, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.48, Status: CONDENSING
+raw Glass= 5.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.94, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.48, Status: CONDENSING
+raw Glass= 5.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.94, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.48, Status: CONDENSING
+raw Glass= 5.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.94, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.48, Status: CONDENSING
+raw Glass= 5.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.94, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.48, Status: CONDENSING
+raw Glass= 5.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.88, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.55, Status: CONDENSING
+raw Glass= 5.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.88, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.55, Status: CONDENSING
+raw Glass= 5.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.88, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.55, Status: CONDENSING
+raw Glass= 5.88, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.88, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.55, Status: CONDENSING
+raw Glass= 5.94, raw Air= 16.50, Humidity: 55.0, Probe Glass = 5.94, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.48, Status: CONDENSING
+raw Glass= 6.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.00, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.42, Status: CONDENSING
+raw Glass= 6.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.00, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.42, Status: CONDENSING
+raw Glass= 6.00, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.00, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.42, Status: CONDENSING
+raw Glass= 6.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.06, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.36, Status: CONDENSING
+raw Glass= 6.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.06, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.36, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.06, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.06, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.36, Status: CONDENSING
+raw Glass= 6.13, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.13, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.30, Status: CONDENSING
+raw Glass= 6.19, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.19, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.23, Status: CONDENSING
+raw Glass= 6.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.31, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.11, Status: CONDENSING
+raw Glass= 6.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.38, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.05, Status: CONDENSING
+raw Glass= 6.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.44, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.98, Status: CONDENSING
+raw Glass= 6.38, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.38, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.05, Status: CONDENSING
+raw Glass= 6.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.31, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.11, Status: CONDENSING
+Page: 2
+raw Glass= 6.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.31, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.11, Status: CONDENSING
+Page: 0
+REDRAW
+Page: 1
+Page: 2
+raw Glass= 6.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.31, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.11, Status: CONDENSING
+raw Glass= 6.31, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.31, Probe Air = 16.50, dewPoint: 7.42, Margin: -1.11, Status: CONDENSING
+raw Glass= 6.44, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.44, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.98, Status: CONDENSING
+raw Glass= 6.56, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.56, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.86, Status: CONDENSING
+raw Glass= 6.69, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.69, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.73, Status: CONDENSING
+raw Glass= 6.81, raw Air= 16.50, Humidity: 55.0, Probe Glass = 6.81, Probe Air = 16.50, dewPoint: 7.42, Margin: -0.61, Status: CONDENSING
